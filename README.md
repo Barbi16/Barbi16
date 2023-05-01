@@ -1,5 +1,5 @@
 <div aling="center">
-    <img src="https://giphy.com/embed/13HgwGsXF0aiGY" alt="">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNmY2Y5M2IwNjljZDNkYzc3ZjYxMGQ4ZWI3ODkwNGYwNzhiODE0NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HgwGsXF0aiGY/giphy.gif" alt="" width="200px">
     <h1 aling="center"> Hola! 👋 Mi nombre es Barbara </h1>
     <hr>
 </div> 
