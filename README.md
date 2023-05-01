@@ -2,6 +2,9 @@
     <img src="https://giphy.com/embed/13HgwGsXF0aiGY" alt="">
     <h1 aling="center"> Hola! 👋 Mi nombre es Barbara </h1>
     <hr>
+</div> 
+
+<div>
     <h3 aling="center" font-style="italic">Sobre Mi</h3>
     <p aling="center"> 
     Soy desarrolladora Full Stack, graduada del bootcamp SoyHenry, donde me encontre con muchos desafios que me hicieron crecer tanto a nivel academico sin duda y a nivel personal tambien. 
@@ -19,6 +22,6 @@
     ⚡Dato curioso: Amante de los animales, y como hobby la cocina y la actividad fisica. 
 
     📫 Si te intereso mi perfil me puedes enviar un email a  miranda.debarbi@gmail.com o me puedes encontrar en <a href="https://www.linkedin.com/in/barbara-miranda-297a55213/"> Linkedn </a> 
-    
     </p>
 </div>
+
